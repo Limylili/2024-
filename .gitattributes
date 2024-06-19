@@ -1,0 +1,6 @@
+submit.csv filter=lfs diff=lfs merge=lfs -text
+submit1.csv filter=lfs diff=lfs merge=lfs -text
+testA.csv filter=lfs diff=lfs merge=lfs -text
+train.csv filter=lfs diff=lfs merge=lfs -text
+Feature.py filter=lfs diff=lfs merge=lfs -text
+sample_submit.csv filter=lfs diff=lfs merge=lfs -text
